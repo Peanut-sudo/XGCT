@@ -1,0 +1,9 @@
+Validation Accuracy: 0.9868421052631579
+Precision: 1.0
+Recall (Sensitivity): 0.9821428571428571
+Specificity: 1.0
+F1 Score: 0.9909909909909909
+AUC Score: 1.0
+Confusion Matrix:
+[[20  0]
+ [ 1 55]]

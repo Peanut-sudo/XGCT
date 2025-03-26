@@ -1,0 +1,9 @@
+Average Accuracy: 0.9473508771929824
+Average Precision: 0.9546621001892941
+Average Recall (Sensitivity): 0.9771616541353383
+Average Specificity: 0.8586842105263157
+Average F1 Score: 0.9655349302800037
+Average AUC Score: 0.9667215736710195
+Summed Confusion Matrix:
+[[165  27]
+ [ 13 551]]
